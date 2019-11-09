@@ -1,0 +1,10 @@
+# OS junk
+.DS_Store
+
+# build products
+*.mex*
+
+# swap files
+*~
+*.swp
+*.asv
